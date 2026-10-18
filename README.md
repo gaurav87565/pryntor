@@ -14,7 +14,7 @@
   <br/>
 
   <a href="https://github.com/gaurav87565/pryntor/releases/latest/download/pryntor-release.apk">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20APK-v1.0.1-2563eb?style=for-the-badge&logo=android&logoColor=white" height="46" alt="Download APK" />
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20APK-v1.0.2-2563eb?style=for-the-badge&logo=android&logoColor=white" height="46" alt="Download APK" />
   </a>
 
   <p><sub>Direct APK download from GitHub Releases &bull; Safe, verified build</sub></p>
@@ -104,7 +104,7 @@ Open **Pryntor**, pick your document, and print without the Xerox line! 🎉
 |---|---|
 | **App Name** | Pryntor |
 | **Package ID** | `me.pryntor.app` |
-| **Latest Version** | `v1.0.1` |
+| **Latest Version** | `v1.0.2` |
 | **Minimum OS** | Android 8.0 (Oreo / API 26) or higher |
 | **Target OS** | Android 14 / 15 (API 34/35) |
 | **File Format** | Android Package (`.apk`) |
