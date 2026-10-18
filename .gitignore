@@ -1,0 +1,10 @@
+# Binaries (distributed via GitHub Releases)
+*.apk
+*.aab
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
